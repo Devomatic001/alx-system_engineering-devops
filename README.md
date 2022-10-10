@@ -1,1 +1,1 @@
-This repository contains solutions to shell task
+Shell I/0 redirections
